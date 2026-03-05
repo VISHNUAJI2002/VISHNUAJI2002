@@ -12,17 +12,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VISHNUAJI2002&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VISHNUAJI2002&theme=radical&cache_seconds=1800" alt="GitHub Streak Stats" />
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
